@@ -64,7 +64,9 @@ README with: prerequisites, how to run everything, how to test with two browser 
 
 ### 5. Submission
 
-Share your work however is practical — **GitHub (or similar) with access for us is probably easiest**, but a zip, private repo invite, or another channel works too. No tight time box — most candidates finish in a few hours with agents. If blocked, note what you tried in the README; we can still have a useful review.
+Create your own **public** repository on GitHub (or another version control hub), commit your solution there, and send us the link. We want to see your commit history and how the work evolved — not just a final zip or snapshot.
+
+No tight time box — most candidates finish in a few hours with agents. If blocked, note what you tried in your README; we can still have a useful review.
 
 ## How we will test
 
